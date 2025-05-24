@@ -1,0 +1,79 @@
+Neighborhood: Green Oaks
+Price: $800,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2,000 sqft
+Description: Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.
+Neighborhood Description: Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze.
+
+Neighborhood: Willow Creek
+Price: $650,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,500 sqft
+Description: This spacious 4-bedroom, 3-bathroom home in Willow Creek features a modern kitchen, large family room, and a sunlit breakfast nook. The backyard includes a play area and patio, ideal for entertaining. The master suite offers a walk-in closet and spa-like bathroom. Energy-efficient windows and smart home features throughout.
+Neighborhood Description: Willow Creek is known for its excellent schools, family-friendly parks, and vibrant community events. Residents enjoy easy access to shopping centers and scenic walking trails.
+
+Neighborhood: Maple Ridge
+Price: $720,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 2,200 sqft
+Description: Maple Ridge offers this beautifully updated home with an open floor plan, gourmet kitchen, and hardwood floors. The backyard is landscaped with a deck and fire pit. Upstairs, the master suite includes a private balcony and luxurious bath.
+Neighborhood Description: Maple Ridge is a peaceful neighborhood with tree-lined streets, local cafes, and a weekly farmers market. Close to public transit and top-rated schools.
+
+Neighborhood: Sunnydale
+Price: $550,000
+Bedrooms: 2
+Bathrooms: 2
+House Size: 1,600 sqft
+Description: A charming bungalow in Sunnydale, featuring a bright living room, updated kitchen, and a cozy sunroom. The fenced backyard is perfect for pets or gardening. Recent upgrades include a new roof and HVAC system.
+Neighborhood Description: Sunnydale is a welcoming community with parks, playgrounds, and a popular community center. Walk to local shops and enjoy easy highway access.
+
+Neighborhood: Riverbend
+Price: $900,000
+Bedrooms: 5
+Bathrooms: 4
+House Size: 3,200 sqft
+Description: This grand Riverbend home boasts five bedrooms, a formal dining room, and a finished basement. The chef’s kitchen opens to a large family room with a fireplace. The backyard features a pool and outdoor kitchen.
+Neighborhood Description: Riverbend is an upscale neighborhood with river views, private walking trails, and a country club. Residents appreciate the quiet streets and luxury amenities.
+
+Neighborhood: Oakwood
+Price: $480,000
+Bedrooms: 2
+Bathrooms: 1
+House Size: 1,200 sqft
+Description: Oakwood’s cozy cottage offers a renovated kitchen, hardwood floors, and a spacious backyard with mature trees. Perfect for first-time buyers or downsizers seeking a quiet retreat.
+Neighborhood Description: Oakwood is a historic neighborhood with charming homes, boutique shops, and a lively arts scene. Enjoy weekend markets and community festivals.
+
+Neighborhood: Cedar Park
+Price: $770,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,600 sqft
+Description: This Cedar Park home features a modern open layout, chef’s kitchen, and a large deck for entertaining. The master suite includes a walk-in closet and spa bath. Energy-efficient appliances and smart home controls included.
+Neighborhood Description: Cedar Park is a family-oriented area with top schools, sports facilities, and green spaces. Residents enjoy a strong sense of community and regular neighborhood events.
+
+Neighborhood: Brookside
+Price: $610,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1,900 sqft
+Description: Brookside’s ranch-style home offers a spacious living area, updated kitchen, and a sunroom overlooking the backyard. The property includes a two-car garage and new landscaping.
+Neighborhood Description: Brookside is a quiet suburb with excellent schools, local parks, and easy access to downtown. Perfect for families and commuters.
+
+Neighborhood: Pine Hill
+Price: $830,000
+Bedrooms: 4
+Bathrooms: 3.5
+House Size: 2,800 sqft
+Description: Pine Hill’s elegant home features a grand foyer, formal dining room, and a gourmet kitchen. The backyard has a covered patio and play area. Upstairs, the master suite offers a sitting room and luxury bath.
+Neighborhood Description: Pine Hill is a prestigious neighborhood with private schools, golf courses, and exclusive shopping. Residents enjoy privacy and beautiful scenery.
+
+Neighborhood: Lakeview
+Price: $690,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2,100 sqft
+Description: Lakeview’s contemporary home boasts an open-concept living space, modern kitchen, and a large patio with lake views. The master suite includes a walk-in closet and updated bath. Community amenities include a pool and clubhouse.
+Neighborhood Description: Lakeview is a scenic community with walking trails, fishing docks, and regular social events. Enjoy lakeside living with easy access to city amenities.
