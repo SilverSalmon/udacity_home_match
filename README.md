@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 
 ## Example Output
-Example outputs are included in the notebook cells. You can modify buyer preferences and rerun the search to see different results.
+Example outputs are included in the notebook cells. You can modify buyer preferences and rerun the search to see different results.  But the Streamlit app is a better way!
 
 ## Stand-Out Features
 - Streamlit APP!
