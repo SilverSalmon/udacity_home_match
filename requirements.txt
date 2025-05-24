@@ -4,3 +4,4 @@ chromadb
 jupyter
 langchain-community
 pandas
+streamlit
