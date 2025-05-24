@@ -22,7 +22,7 @@ HomeMatch is a Python/Jupyter Notebook application that generates synthetic real
    - Personalize listing descriptions
    - Save generated listings to a file named `listings`
 
-4. Run streamlit run app.py
+4. Run "streamlit run app.py" !!!!
 
 ## Dependencies
 - Python 3.8+
@@ -30,24 +30,25 @@ HomeMatch is a Python/Jupyter Notebook application that generates synthetic real
 - openai
 - langchain
 - chromadb
+- Streamlit
 
 Install dependencies with:
 ```
-pip install langchain openai chromadb
+pip install -r requirements.txt
 ```
 
 ## Files
 - `HomeMatch.ipynb`: Main application notebook
 - `listings`: File containing generated real estate listings
 - `Project Instructions.md`: Project requirements
+- `app.py`: Streamlit App!
+
 
 ## Example Output
 Example outputs are included in the notebook cells. You can modify buyer preferences and rerun the search to see different results.
 
 ## Stand-Out Features
-- Easily extendable to support image search and multi-modal features using CLIP.
-- Modular code for easy adaptation to other domains.
-
+- Streamlit APP!
 ---
 
 For any issues, please refer to the notebook comments or contact the project author.
